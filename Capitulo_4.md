@@ -9,7 +9,7 @@ La plataforma está pensada para manejar múltiples proyectos, usuarios y contri
 
 En este apartado se detallan las decisiones de estilo que definen la identidad visual de la plataforma, orientada a conectar desarrolladores con proyectos y facilitar su participación en tareas reales. Las decisiones relacionadas con branding, tipografía, colores, espaciado y lenguaje buscan transmitir accesibilidad, colaboración, claridad y dinamismo, elementos clave dentro de comunidades tecnológicas.
 
-### Colores
+### Colores 
 
 <div style="text-align:center;">
   <img src="imagenes/imagenes_Cap4/color-palette.png" 
